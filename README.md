@@ -1,6 +1,6 @@
 # project_for_mvvm
 
-A new Flutter project.
+MVVM 패턴 학습을 위한 레포입니다.
 
 ## Getting Started
 
